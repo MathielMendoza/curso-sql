@@ -1,0 +1,10 @@
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\bin\Debug\CentroMedicoDB.dacpac
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\bin\Debug\CentroMedicoDB.dll
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\bin\Debug\CentroMedicoDB.pdb
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\obj\Debug\CentroMedicoDB.sqlproj.AssemblyReference.cache
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\obj\Debug\Model.xml
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\obj\Debug\refactor.xml
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\obj\Debug\postdeploy.sql
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\obj\Debug\predeploy.sql
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\obj\Debug\CentroMedicoDB.dll
+C:\Desarrollo\DataBase\CentroMedicoDB\CentroMedicoDB\obj\Debug\CentroMedicoDB.pdb
