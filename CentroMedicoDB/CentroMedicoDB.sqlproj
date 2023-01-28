@@ -58,8 +58,20 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="doc\Relaciones.pdf" />
+    <Content Include="scripts\insertTurnoEstado.sql" />
+    <Content Include="Tables\Concepto.sql" />
+    <Content Include="Tables\Especialidad.sql" />
     <Content Include="Tables\Historia.sql" />
     <Content Include="Tables\HistoriaPaciente.sql" />
+    <Content Include="Tables\Medico.sql" />
+    <Content Include="Tables\MedicoEspecialidad.sql" />
+    <Content Include="Tables\Pago.sql" />
+    <Content Include="Tables\PagoPaciente.sql" />
+    <Content Include="Tables\Pais.sql" />
+    <Content Include="Tables\Turno.sql" />
+    <Content Include="Tables\TurnoEstado.sql" />
     <Content Include="Tables\TurnoPaciente.sql" />
+    <Content Include="Tables\TYPES.sql" />
   </ItemGroup>
 </Project>
